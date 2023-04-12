@@ -29,7 +29,7 @@
     <link rel="Icon" href="./../images/logo16x16.png" type="image/x-icon">
   </head>
 
-  <body>
+   <body>
     <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
     <!-- Navbar -->
     <div class="container-sm">
