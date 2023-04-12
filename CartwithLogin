@@ -49,7 +49,7 @@
           <div class="input-group">
             <div class="input-group-append">
               <button type="button" class="btn">Buscar</button>
-            </div>
+           </div>
             <input
               list="browsers"
               class="form-control"
